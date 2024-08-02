@@ -1,11 +1,7 @@
 streamlit
-cv2 
+opencv-python
 mediapipe
 numpy
 pandas
-opencv-python
-tensorflow
-mediapipe
-Pillow
-matplotlib
 scikit-learn
+gzip
