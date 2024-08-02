@@ -1,5 +1,6 @@
 # Fitness-Tracker-with-Pose-Estimation
-Use following Steps To use it : 
+Click on this link to get the demo 
+Use following Steps To use it with out deployment: 
 1. In order to use it Download the "exercise_classifier_rf.pkl.gz" , "scaler.pkl" and "app.py"
 2. Go to the Directory where these files are present and type in your cmd "streamlit run app.py"
    ## use this :
