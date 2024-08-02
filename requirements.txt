@@ -1,4 +1,6 @@
 streamlit
+cv2 
+mediapipe
 numpy
 pandas
 opencv-python
