@@ -1,6 +1,7 @@
 streamlit==1.24.0
 mediapipe
 opencv-python==4.8.0.74
+opencv-contrib-python
 numpy==1.25.0
 pandas==2.0.3
 scikit-learn==1.2.2
